@@ -13,6 +13,3 @@ Users can create profiles, save recipes, and search by ingredients. The app focu
 - Recipe creation, editing, and deletion (CRUD)  
 - Filtering recipes by ingredients   
 - Secure server-side logic with PHP and MySQL  
-
-## Screenshots / Demo
-<img width="424" height="296" alt="image" src="https://github.com/user-attachments/assets/c3069918-6a12-44ce-9df4-aeb41aa039a5" />
