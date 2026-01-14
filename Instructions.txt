@@ -1,0 +1,12 @@
+First Page is Index.php
+
+Turn on XAMPP (Apache and MySQL)
+Import the SQL Files found in the folder
+
+Login Existing Account in System (existing recipes already present)
+email: christianrayaleria@gmail.com	
+password: qwerty12345
+
+
+Or Create your Own Account
+
